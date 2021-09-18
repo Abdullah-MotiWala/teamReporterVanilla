@@ -1,0 +1,29 @@
+.user-box, .login-box {
+    display: none;
+}
+
+.teamData {
+    position: relative;
+    border: 2px solid olive;
+    padding: 20px;
+    margin: 50px;
+}
+
+.admin, .member {
+    position: absolute;
+    right: 10px;
+}
+
+input {
+    margin-right: 20px;
+}
+p,h3{
+    margin: 0;
+}
+.senderName{
+    font-weight: bold;
+    font-size: 12px;
+}
+.members{
+    font-size: 12px;
+}
